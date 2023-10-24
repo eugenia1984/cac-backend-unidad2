@@ -56,6 +56,10 @@ public class CodoACodo {
 * Muchas gracias.
 
 ---
+
 ## Notas
-GRacias por tu interés en este proyecto ⌨️ de [María Eugenia Costa](https://github.com/eugenia1984) me podés eguir en [LinkedIn](http://www.linkedin.com/in/maríaeugeniacosta) 
+
+Gracias por tu interés en este proyecto ⌨️ de [María Eugenia Costa](https://github.com/eugenia1984) me podés seguir en [LinkedIn - maria-eugenia-costa](https://www.linkedin.com/in/maria-eugenia-costa/)
+
+---
 
